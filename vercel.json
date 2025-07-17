@@ -5,7 +5,7 @@
       "headers" : [
         {
           "key" : "Content-Security-Policy",
-          "value" : "frame-src https://deeplink-tests-beta.vercel.app"
+          "value" : "frame-src https://deeplink-test-beta.vercel.app"
         }
       ]
     }
